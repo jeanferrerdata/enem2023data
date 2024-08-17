@@ -15,8 +15,13 @@ Utilizei a biblioteca Pandas no Python para realizar as seguintes etapas:
 ## Visualizações Interativas
 
 As visualizações interativas do projeto podem ser acessadas nos seguintes links:  
+
+Total de Inscritos e Presença (%) por Município  
 https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporMunicpio/MapGeral  
-https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporFusoHorrio/MapFusoHorrio
+
+Total de Inscritos e Presença (%) por Fuso Horário  
+https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporFusoHorrio/MapFusoHorrio  
+
 
 ## Como Utilizar
 
@@ -50,8 +55,12 @@ I used the Pandas library in Python to perform the following steps:
 ## Interactive Visualizations
 
 The interactive visualizations of the project can be accessed through the following links:  
+
+Total of Registered Candidates and Attendance (%) by Municipality  
 https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporMunicpio/MapGeral  
-https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporFusoHorrio/MapFusoHorrio
+
+Total of Registered Candidates and Attendance (%) by Time Zone  
+https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritosePresenaporFusoHorrio/MapFusoHorrio  
 
 ## How to Use
 
