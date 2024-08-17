@@ -21,6 +21,7 @@ https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritose
 ## Como Utilizar
 
 Clone este repositório.  
+Baixe os dados do ENEM 2023 em https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem.  
 Execute o script Python para gerar os dados necessários.  
 Os dados gerados podem ser visualizados utilizando o Tableau Public.
 
@@ -55,6 +56,7 @@ https://public.tableau.com/app/profile/jeanferrer/viz/ENEM2023-TotaldeInscritose
 ## How to Use
 
 Clone this repository.  
+Download the ENEM 2023 data at https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem.  
 Run the Python script to generate the necessary data.  
 The generated data can be visualized using Tableau Public.
 
